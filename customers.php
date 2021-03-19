@@ -5,7 +5,7 @@
 		private $servername = "localhost";
 		private $username 	= "root";
 		private $password 	= "";
-		private $database 	= "blog_database";
+		private $database 	= "sh_crud";
 		public  $con;
 
 
