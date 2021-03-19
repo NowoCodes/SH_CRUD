@@ -23,7 +23,7 @@
 <body>
 
 <div class="card text-center" style="padding:15px;">
-  <h4>PHP: CRUD (Add, Edit, Delete, View) Application using OOP (Object Oriented Programming) and MYSQL</h4>
+  <h4>PHP: CRUD Application using OOP and MYSQL</h4>
 </div><br> 
 
 <div class="container">
